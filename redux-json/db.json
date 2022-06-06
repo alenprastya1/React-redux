@@ -1,0 +1,34 @@
+{
+  "Kontaks": [
+    {
+      "id": 3,
+      "nama": "Neyla Prastya Alen",
+      "nohp": "1831127064559023"
+    },
+    {
+      "nama": "Hanas Setiawan Jati",
+      "nohp": "0861517819165",
+      "id": 4
+    },
+    {
+      "nama": "Rina",
+      "nohp": "0861578761567",
+      "id": 5
+    },
+    {
+      "nama": "Mamas Alen",
+      "nohp": "09876765432",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "nama": "Alen",
+      "nohp": "086151671651"
+    },
+    {
+      "id": 8,
+      "nama": "Bayu Gatra",
+      "nohp": ""
+    }
+  ]
+}
